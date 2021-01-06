@@ -5,7 +5,7 @@ This is a plain HTML website which gives you square and square root of a number 
 <br>
 <br>
 
-![Alt Text](./videos/output-gif.gif)
+![Alt Text](./videos/demo.gif)
 
 
 ## Enjoy your powerfull application.
